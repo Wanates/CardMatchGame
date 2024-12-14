@@ -1,0 +1,71 @@
+C:\Users\user\source\repos\Algo_V1\Algo_V1\bin\Debug\Algo_V1.exe.config
+C:\Users\user\source\repos\Algo_V1\Algo_V1\bin\Debug\Algo_V1.exe
+C:\Users\user\source\repos\Algo_V1\Algo_V1\bin\Debug\Algo_V1.pdb
+C:\Users\user\source\repos\Algo_V1\Algo_V1\obj\Debug\Algo_V1.Form1.resources
+C:\Users\user\source\repos\Algo_V1\Algo_V1\obj\Debug\Algo_V1.Properties.Resources.resources
+C:\Users\user\source\repos\Algo_V1\Algo_V1\obj\Debug\Algo_V1.csproj.GenerateResource.cache
+C:\Users\user\source\repos\Algo_V1\Algo_V1\obj\Debug\Algo_V1.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\Algo_V1\Algo_V1\obj\Debug\Algo_V1.exe
+C:\Users\user\source\repos\Algo_V1\Algo_V1\obj\Debug\Algo_V1.pdb
+C:\Users\user\source\repos\Algo_V1\Algo_V1\obj\Debug\Algo_V1.csproj.AssemblyReference.cache
+C:\Users\user\source\repos\Algo_V1\Algo_V1\obj\Debug\Algo_V1.csproj.SuggestedBindingRedirects.cache
+C:\Users\semih\OneDrive\Masaüstü\Algo_V1 (2)\Algo_V1\Algo_V1\bin\Debug\Algo_V1.exe.config
+C:\Users\semih\OneDrive\Masaüstü\Algo_V1 (2)\Algo_V1\Algo_V1\bin\Debug\Algo_V1.exe
+C:\Users\semih\OneDrive\Masaüstü\Algo_V1 (2)\Algo_V1\Algo_V1\bin\Debug\Algo_V1.pdb
+C:\Users\semih\OneDrive\Masaüstü\Algo_V1 (2)\Algo_V1\Algo_V1\obj\Debug\Algo_V1.csproj.AssemblyReference.cache
+C:\Users\semih\OneDrive\Masaüstü\Algo_V1 (2)\Algo_V1\Algo_V1\obj\Debug\Algo_V1.Form1.resources
+C:\Users\semih\OneDrive\Masaüstü\Algo_V1 (2)\Algo_V1\Algo_V1\obj\Debug\Algo_V1.Properties.Resources.resources
+C:\Users\semih\OneDrive\Masaüstü\Algo_V1 (2)\Algo_V1\Algo_V1\obj\Debug\Algo_V1.csproj.GenerateResource.cache
+C:\Users\semih\OneDrive\Masaüstü\Algo_V1 (2)\Algo_V1\Algo_V1\obj\Debug\Algo_V1.csproj.CoreCompileInputs.cache
+C:\Users\semih\OneDrive\Masaüstü\Algo_V1 (2)\Algo_V1\Algo_V1\obj\Debug\Algo_V1.exe
+C:\Users\semih\OneDrive\Masaüstü\Algo_V1 (2)\Algo_V1\Algo_V1\obj\Debug\Algo_V1.pdb
+C:\Users\semih\OneDrive\Masaüstü\Algo_V1 (semih)\Algo_V1\Algo_V1\bin\Debug\Algo_V1.exe.config
+C:\Users\semih\OneDrive\Masaüstü\Algo_V1 (semih)\Algo_V1\Algo_V1\bin\Debug\Algo_V1.exe
+C:\Users\semih\OneDrive\Masaüstü\Algo_V1 (semih)\Algo_V1\Algo_V1\bin\Debug\Algo_V1.pdb
+C:\Users\semih\OneDrive\Masaüstü\Algo_V1 (semih)\Algo_V1\Algo_V1\obj\Debug\Algo_V1.csproj.AssemblyReference.cache
+C:\Users\semih\OneDrive\Masaüstü\Algo_V1 (semih)\Algo_V1\Algo_V1\obj\Debug\Algo_V1.Form1.resources
+C:\Users\semih\OneDrive\Masaüstü\Algo_V1 (semih)\Algo_V1\Algo_V1\obj\Debug\Algo_V1.Properties.Resources.resources
+C:\Users\semih\OneDrive\Masaüstü\Algo_V1 (semih)\Algo_V1\Algo_V1\obj\Debug\Algo_V1.csproj.GenerateResource.cache
+C:\Users\semih\OneDrive\Masaüstü\Algo_V1 (semih)\Algo_V1\Algo_V1\obj\Debug\Algo_V1.csproj.CoreCompileInputs.cache
+C:\Users\semih\OneDrive\Masaüstü\Algo_V1 (semih)\Algo_V1\Algo_V1\obj\Debug\Algo_V1.exe
+C:\Users\semih\OneDrive\Masaüstü\Algo_V1 (semih)\Algo_V1\Algo_V1\obj\Debug\Algo_V1.pdb
+C:\Users\tnrvr\Desktop\Algo_V1 (semih)\Algo_V1\Algo_V1\bin\Debug\Algo_V1.exe.config
+C:\Users\tnrvr\Desktop\Algo_V1 (semih)\Algo_V1\Algo_V1\bin\Debug\Algo_V1.exe
+C:\Users\tnrvr\Desktop\Algo_V1 (semih)\Algo_V1\Algo_V1\bin\Debug\Algo_V1.pdb
+C:\Users\tnrvr\Desktop\Algo_V1 (semih)\Algo_V1\Algo_V1\obj\Debug\Algo_V1.csproj.AssemblyReference.cache
+C:\Users\tnrvr\Desktop\Algo_V1 (semih)\Algo_V1\Algo_V1\obj\Debug\Algo_V1.Form1.resources
+C:\Users\tnrvr\Desktop\Algo_V1 (semih)\Algo_V1\Algo_V1\obj\Debug\Algo_V1.Properties.Resources.resources
+C:\Users\tnrvr\Desktop\Algo_V1 (semih)\Algo_V1\Algo_V1\obj\Debug\Algo_V1.csproj.GenerateResource.cache
+C:\Users\tnrvr\Desktop\Algo_V1 (semih)\Algo_V1\Algo_V1\obj\Debug\Algo_V1.csproj.CoreCompileInputs.cache
+C:\Users\tnrvr\Desktop\Algo_V1 (semih)\Algo_V1\Algo_V1\obj\Debug\Algo_V1.exe
+C:\Users\tnrvr\Desktop\Algo_V1 (semih)\Algo_V1\Algo_V1\obj\Debug\Algo_V1.pdb
+C:\Users\MyLaptop\Downloads\Compressed\Projelerim\Algo_V2\Algo_V1\Algo_V1\bin\Debug\Algo_V1.exe.config
+C:\Users\MyLaptop\Downloads\Compressed\Projelerim\Algo_V2\Algo_V1\Algo_V1\bin\Debug\Algo_V1.exe
+C:\Users\MyLaptop\Downloads\Compressed\Projelerim\Algo_V2\Algo_V1\Algo_V1\bin\Debug\Algo_V1.pdb
+C:\Users\MyLaptop\Downloads\Compressed\Projelerim\Algo_V2\Algo_V1\Algo_V1\obj\Debug\Algo_V1.csproj.AssemblyReference.cache
+C:\Users\MyLaptop\Downloads\Compressed\Projelerim\Algo_V2\Algo_V1\Algo_V1\obj\Debug\Algo_V1.Form1.resources
+C:\Users\MyLaptop\Downloads\Compressed\Projelerim\Algo_V2\Algo_V1\Algo_V1\obj\Debug\Algo_V1.Properties.Resources.resources
+C:\Users\MyLaptop\Downloads\Compressed\Projelerim\Algo_V2\Algo_V1\Algo_V1\obj\Debug\Algo_V1.csproj.GenerateResource.cache
+C:\Users\MyLaptop\Downloads\Compressed\Projelerim\Algo_V2\Algo_V1\Algo_V1\obj\Debug\Algo_V1.csproj.CoreCompileInputs.cache
+C:\Users\MyLaptop\Downloads\Compressed\Projelerim\Algo_V2\Algo_V1\Algo_V1\obj\Debug\Algo_V1.exe
+C:\Users\MyLaptop\Downloads\Compressed\Projelerim\Algo_V2\Algo_V1\Algo_V1\obj\Debug\Algo_V1.pdb
+C:\Users\MyLaptop\Desktop\Projelerim\Card Match Game V2\Algo_V1\Algo_V1\bin\Debug\Card Match Game V2.exe.config
+C:\Users\MyLaptop\Desktop\Projelerim\Card Match Game V2\Algo_V1\Algo_V1\bin\Debug\Card Match Game V2.exe
+C:\Users\MyLaptop\Desktop\Projelerim\Card Match Game V2\Algo_V1\Algo_V1\bin\Debug\Card Match Game V2.pdb
+C:\Users\MyLaptop\Desktop\Projelerim\Card Match Game V2\Algo_V1\Algo_V1\obj\Debug\Algo_V1.csproj.AssemblyReference.cache
+C:\Users\MyLaptop\Desktop\Projelerim\Card Match Game V2\Algo_V1\Algo_V1\obj\Debug\Algo_V1.Form1.resources
+C:\Users\MyLaptop\Desktop\Projelerim\Card Match Game V2\Algo_V1\Algo_V1\obj\Debug\Card_Match_Game_V2.Properties.Resources.resources
+C:\Users\MyLaptop\Desktop\Projelerim\Card Match Game V2\Algo_V1\Algo_V1\obj\Debug\Algo_V1.csproj.GenerateResource.cache
+C:\Users\MyLaptop\Desktop\Projelerim\Card Match Game V2\Algo_V1\Algo_V1\obj\Debug\Algo_V1.csproj.CoreCompileInputs.cache
+C:\Users\MyLaptop\Desktop\Projelerim\Card Match Game V2\Algo_V1\Algo_V1\obj\Debug\Card Match Game V2.exe
+C:\Users\MyLaptop\Desktop\Projelerim\Card Match Game V2\Algo_V1\Algo_V1\obj\Debug\Card Match Game V2.pdb
+C:\Users\MyLaptop\Desktop\Projelerim\Card Match Game\Algo_V1\Algo_V1\bin\Debug\Card Match Game.exe.config
+C:\Users\MyLaptop\Desktop\Projelerim\Card Match Game\Algo_V1\Algo_V1\bin\Debug\Card Match Game.exe
+C:\Users\MyLaptop\Desktop\Projelerim\Card Match Game\Algo_V1\Algo_V1\bin\Debug\Card Match Game.pdb
+C:\Users\MyLaptop\Desktop\Projelerim\Card Match Game\Algo_V1\Algo_V1\obj\Debug\Algo_V1.csproj.AssemblyReference.cache
+C:\Users\MyLaptop\Desktop\Projelerim\Card Match Game\Algo_V1\Algo_V1\obj\Debug\Algo_V1.Form1.resources
+C:\Users\MyLaptop\Desktop\Projelerim\Card Match Game\Algo_V1\Algo_V1\obj\Debug\Card_Match_Game.Properties.Resources.resources
+C:\Users\MyLaptop\Desktop\Projelerim\Card Match Game\Algo_V1\Algo_V1\obj\Debug\Algo_V1.csproj.GenerateResource.cache
+C:\Users\MyLaptop\Desktop\Projelerim\Card Match Game\Algo_V1\Algo_V1\obj\Debug\Algo_V1.csproj.CoreCompileInputs.cache
+C:\Users\MyLaptop\Desktop\Projelerim\Card Match Game\Algo_V1\Algo_V1\obj\Debug\Card Match Game.exe
+C:\Users\MyLaptop\Desktop\Projelerim\Card Match Game\Algo_V1\Algo_V1\obj\Debug\Card Match Game.pdb
