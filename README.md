@@ -1,2 +1,2 @@
 # Card Match Game
- Kart eşleştirme oyunu projem
+Okurken öğrendiğim bilgilerle geliştirdiğim kart eşleştirme oyunum.
