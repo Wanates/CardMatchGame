@@ -69,3 +69,14 @@ C:\Users\MyLaptop\Desktop\Projelerim\Card Match Game\Algo_V1\Algo_V1\obj\Debug\A
 C:\Users\MyLaptop\Desktop\Projelerim\Card Match Game\Algo_V1\Algo_V1\obj\Debug\Algo_V1.csproj.CoreCompileInputs.cache
 C:\Users\MyLaptop\Desktop\Projelerim\Card Match Game\Algo_V1\Algo_V1\obj\Debug\Card Match Game.exe
 C:\Users\MyLaptop\Desktop\Projelerim\Card Match Game\Algo_V1\Algo_V1\obj\Debug\Card Match Game.pdb
+C:\Users\MyLaptop\Github Desktop\Card-Match-Game\Card Match Game\Algo_V1\Algo_V1\bin\Debug\Card Match Game.exe.config
+C:\Users\MyLaptop\Github Desktop\Card-Match-Game\Card Match Game\Algo_V1\Algo_V1\bin\Debug\Card Match Game.exe
+C:\Users\MyLaptop\Github Desktop\Card-Match-Game\Card Match Game\Algo_V1\Algo_V1\bin\Debug\Card Match Game.pdb
+C:\Users\MyLaptop\Github Desktop\Card-Match-Game\Card Match Game\Algo_V1\Algo_V1\obj\Debug\Algo_V1.csproj.AssemblyReference.cache
+C:\Users\MyLaptop\Github Desktop\Card-Match-Game\Card Match Game\Algo_V1\Algo_V1\obj\Debug\Card Match Game.exe.config
+C:\Users\MyLaptop\Github Desktop\Card-Match-Game\Card Match Game\Algo_V1\Algo_V1\obj\Debug\Algo_V1.Form1.resources
+C:\Users\MyLaptop\Github Desktop\Card-Match-Game\Card Match Game\Algo_V1\Algo_V1\obj\Debug\Card_Match_Game.Properties.Resources.resources
+C:\Users\MyLaptop\Github Desktop\Card-Match-Game\Card Match Game\Algo_V1\Algo_V1\obj\Debug\Algo_V1.csproj.GenerateResource.cache
+C:\Users\MyLaptop\Github Desktop\Card-Match-Game\Card Match Game\Algo_V1\Algo_V1\obj\Debug\Algo_V1.csproj.CoreCompileInputs.cache
+C:\Users\MyLaptop\Github Desktop\Card-Match-Game\Card Match Game\Algo_V1\Algo_V1\obj\Debug\Card Match Game.exe
+C:\Users\MyLaptop\Github Desktop\Card-Match-Game\Card Match Game\Algo_V1\Algo_V1\obj\Debug\Card Match Game.pdb
