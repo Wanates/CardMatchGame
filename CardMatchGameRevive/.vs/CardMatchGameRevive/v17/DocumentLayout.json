@@ -1,0 +1,85 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\MyLaptop\\source\\repos\\CardMatchGameRevive\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{4F177444-4F85-422D-B960-CB03C7E8F7C9}|CardMatchGame.WinForms\\CardMatchGame.WinForms.csproj|c:\\users\\mylaptop\\source\\repos\\cardmatchgamerevive\\cardmatchgame.winforms\\forms\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4F177444-4F85-422D-B960-CB03C7E8F7C9}|CardMatchGame.WinForms\\CardMatchGame.WinForms.csproj|solutionrelative:cardmatchgame.winforms\\forms\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4F177444-4F85-422D-B960-CB03C7E8F7C9}|CardMatchGame.WinForms\\CardMatchGame.WinForms.csproj|C:\\Users\\MyLaptop\\source\\repos\\CardMatchGameRevive\\cardmatchgame.winforms\\forms\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{4F177444-4F85-422D-B960-CB03C7E8F7C9}|CardMatchGame.WinForms\\CardMatchGame.WinForms.csproj|solutionrelative:cardmatchgame.winforms\\forms\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4F177444-4F85-422D-B960-CB03C7E8F7C9}|CardMatchGame.WinForms\\CardMatchGame.WinForms.csproj|C:\\Users\\MyLaptop\\source\\repos\\CardMatchGameRevive\\cardmatchgame.winforms\\forms\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4F177444-4F85-422D-B960-CB03C7E8F7C9}|CardMatchGame.WinForms\\CardMatchGame.WinForms.csproj|solutionrelative:cardmatchgame.winforms\\forms\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:131:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:130:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.cs [Tasar\u0131m]",
+              "DocumentMoniker": "C:\\Users\\MyLaptop\\source\\repos\\CardMatchGameRevive\\CardMatchGame.WinForms\\Forms\\Form1.cs",
+              "RelativeDocumentMoniker": "CardMatchGame.WinForms\\Forms\\Form1.cs",
+              "ToolTip": "C:\\Users\\MyLaptop\\source\\repos\\CardMatchGameRevive\\CardMatchGame.WinForms\\Forms\\Form1.cs [Tasar\u0131m]",
+              "RelativeToolTip": "CardMatchGame.WinForms\\Forms\\Form1.cs [Tasar\u0131m]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-01T00:02:32.043Z",
+              "EditorCaption": " [Tasar\u0131m]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\MyLaptop\\source\\repos\\CardMatchGameRevive\\CardMatchGame.WinForms\\Forms\\Form1.cs",
+              "RelativeDocumentMoniker": "CardMatchGame.WinForms\\Forms\\Form1.cs",
+              "ToolTip": "C:\\Users\\MyLaptop\\source\\repos\\CardMatchGameRevive\\CardMatchGame.WinForms\\Forms\\Form1.cs",
+              "RelativeToolTip": "CardMatchGame.WinForms\\Forms\\Form1.cs",
+              "ViewState": "AgIAAEkBAAAAAAAAAAAqwGUBAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-01T00:02:38.528Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Form1.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\MyLaptop\\source\\repos\\CardMatchGameRevive\\CardMatchGame.WinForms\\Forms\\Form1.Designer.cs",
+              "RelativeDocumentMoniker": "CardMatchGame.WinForms\\Forms\\Form1.Designer.cs",
+              "ToolTip": "C:\\Users\\MyLaptop\\source\\repos\\CardMatchGameRevive\\CardMatchGame.WinForms\\Forms\\Form1.Designer.cs",
+              "RelativeToolTip": "CardMatchGame.WinForms\\Forms\\Form1.Designer.cs",
+              "ViewState": "AgIAABIAAAAAAAAAAAAWwB0AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-01T00:02:35.014Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

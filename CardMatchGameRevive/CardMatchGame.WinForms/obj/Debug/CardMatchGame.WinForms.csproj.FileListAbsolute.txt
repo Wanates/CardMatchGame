@@ -1,0 +1,11 @@
+C:\Users\MyLaptop\source\repos\CardMatchGameRevive\CardMatchGame.WinForms\obj\Debug\CardMatchGame.WinForms.csproj.AssemblyReference.cache
+C:\Users\MyLaptop\source\repos\CardMatchGameRevive\CardMatchGame.WinForms\obj\Debug\CardMatchGame.WinForms.Properties.Resources.resources
+C:\Users\MyLaptop\source\repos\CardMatchGameRevive\CardMatchGame.WinForms\obj\Debug\CardMatchGame.WinForms.csproj.GenerateResource.cache
+C:\Users\MyLaptop\source\repos\CardMatchGameRevive\CardMatchGame.WinForms\obj\Debug\CardMatchGame.WinForms.csproj.CoreCompileInputs.cache
+C:\Users\MyLaptop\source\repos\CardMatchGameRevive\CardMatchGame.WinForms\bin\Debug\CardMatchGame.WinForms.exe.config
+C:\Users\MyLaptop\source\repos\CardMatchGameRevive\CardMatchGame.WinForms\bin\Debug\CardMatchGame.WinForms.exe
+C:\Users\MyLaptop\source\repos\CardMatchGameRevive\CardMatchGame.WinForms\bin\Debug\CardMatchGame.WinForms.pdb
+C:\Users\MyLaptop\source\repos\CardMatchGameRevive\CardMatchGame.WinForms\obj\Debug\CardMatchGame.WinForms.exe
+C:\Users\MyLaptop\source\repos\CardMatchGameRevive\CardMatchGame.WinForms\obj\Debug\CardMatchGame.WinForms.pdb
+C:\Users\MyLaptop\source\repos\CardMatchGameRevive\CardMatchGame.WinForms\obj\Debug\CardMatchGame.WinForms.Form1.resources
+C:\Users\MyLaptop\source\repos\CardMatchGameRevive\CardMatchGame.WinForms\obj\Debug\CardMatchGame.WinForms.exe.config
