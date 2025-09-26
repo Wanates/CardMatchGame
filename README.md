@@ -24,4 +24,4 @@ Oyuncular kartları açarak eşleri bulmaya çalışır. Hem tek oyunculu hem de
 ## 🚀 Nasıl Çalıştırılır?
 1. Kaynak kodunu klonlayın:  
    ```bash
-   git clone https://github.com/<kendi-github-kullanıcı-adın>/CardMatchGame.git
+   git clone https://github.com/Wanates/CardMatchGame.git
